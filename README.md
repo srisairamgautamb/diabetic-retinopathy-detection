@@ -51,7 +51,7 @@ This approach can extend to detecting other vision-related diseases, like glauco
 - **Vaibhav**: Simple CNN, Model Novelty  
 - **Siddharth**: Random Forest, Decision Tree  
 - **Anett**: ResNet50 Implementation  
-- **Gautam**: Adaptive Neural Attention Network  
+- **B. Sri Sairam Gautam**: Adaptive Neural Attention Network  
 - **Sai Krupakar**: Model Challenges, Results  
 - **Himanshu**: Support Vector Machines  
 
