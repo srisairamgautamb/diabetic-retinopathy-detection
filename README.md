@@ -3,7 +3,7 @@
 ## Overview  
 This project addresses early diabetic retinopathy (DR) detection challenges using advanced machine learning models. By leveraging CNNs, VGG16, ResNet50, Adaptive Neural Attention Network (ANAN), and other techniques, the solution provides a scalable, automated way to classify DR severity levels. Early detection reduces blindness risks, particularly in rural areas with limited medical access.  
 
-## Key Features  
+## Key Features   
 - **Models Used**:  
   - Support Vector Machine (SVM)  
   - Random Forest  
