@@ -53,21 +53,7 @@ This approach can extend to detecting other vision-related diseases, like glauco
 - **Anett**: ResNet50 Implementation  
 - **B. Sri Sairam Gautam**: Adaptive Neural Attention Network  
 - **Sai Krupakar**: Model Challenges, Results  
-- **Himanshu**: Support Vector Machines  
-
-## How to Run  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/diabetic-retinopathy-detection.git
-
-  ```bash  
-   pip install -r requirements.txt
-
-  ```bash
-python train.py  
-
-  ```bash
-python evaluate.py
+- **Himanshu**: Support Vector Machines
 
 
 ## References  
@@ -78,7 +64,15 @@ python evaluate.py
 
 - **Convolutional Neural Networks for Diabetic Retinopathy Detection**  
   Research papers on the application of CNNs for medical image classification.  
-  [NIH Paper on CNNs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5795661/) 
+  [NIH Paper on CNNs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5795661/)  
 
 
+## How to Run  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/yourusername/diabetic-retinopathy-detection.git
 
+
+2. To install the required dependencies, run:
+```bash
+pip install -r requirements.txt
